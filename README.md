@@ -1,2 +1,5 @@
 # hover-board
-Learn project
+## Using technology
+- HTML
+- CSS
+- JS
